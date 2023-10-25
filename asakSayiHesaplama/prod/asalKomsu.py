@@ -4,5 +4,5 @@ Created on Oct 25, 2023
 @author: neda
 '''
 
-def asalSayi(ustSınır=None):
+def asalKomsu(ustSınır=None):
     pass
