@@ -11,7 +11,7 @@ class Test(unittest.TestCase):
 
 
     def test010(self):
-        sonuc = ak.asalSayi(ustSınır=2)
+        sonuc = ak.asalKomsu(ustSınır=2)
         beklenenSonuc= 2
         self.assertEqual(beklenenSonuc, sonuc)
         
